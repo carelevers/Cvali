@@ -1,24 +1,24 @@
 # Cvali
-* Simple validation class
-* //Validation types
+Simple validation class
+Validation types
 * "validateEmail",
-"validateAlpha",
-"validateAlphaNumeric",
-"validateInteger",
-"validateBoolean",
-"validateRequired",
-"validateFloat",
-"validateCreditcard",
-"validateNumeric",
-"validateStreetAddress",
-"validateIban",
-"validateDate",
-"validatePhonenumber",
-"validateRequired",
-"validatePostalcode",
-"validateTextarea",
-"validateTextInput",
-"validateBSN"
+* "validateAlpha",
+* "validateAlphaNumeric",
+* "validateInteger",
+* "validateBoolean",
+* "validateRequired",
+* "validateFloat",
+* "validateCreditcard",
+* "validateNumeric",
+* "validateStreetAddress",
+* "validateIban",
+* "validateDate",
+* "validatePhonenumber",
+* "validateRequired",
+* "validatePostalcode",
+* "validateTextarea",
+* "validateTextInput",
+* "validateBSN"
 
 # Usage
 //Setup class
