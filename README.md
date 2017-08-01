@@ -1,0 +1,2 @@
+# Cvali
+Simple validation class
