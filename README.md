@@ -1,7 +1,7 @@
 # Cvali
-Simple validation class
-//Validation types
-"validateEmail",
+* Simple validation class
+* //Validation types
+* "validateEmail",
 "validateAlpha",
 "validateAlphaNumeric",
 "validateInteger",
